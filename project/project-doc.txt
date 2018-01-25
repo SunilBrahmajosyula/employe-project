@@ -1,0 +1,5 @@
+1.How can you get n highest salaried employeess frim a list of employees. Assume there is a table in backend named EMP.Assume there is salary column in the employee object.n is a dynamic value which is taken from frontend.
+2)I have an array of elements . give the occurences of each character as key value pair
+3) write a program to update employees designation with senior. Assume that there is a EMP_PROFILE table and designation column in that table
+use any ORM tool you are comfortable
+	
